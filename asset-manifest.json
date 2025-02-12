@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/selmap/static/css/main.a3686a09.css",
-    "main.js": "/selmap/static/js/main.2a5c076a.js",
+    "main.js": "/selmap/static/js/main.6a028d48.js",
     "index.html": "/selmap/index.html",
     "main.a3686a09.css.map": "/selmap/static/css/main.a3686a09.css.map",
-    "main.2a5c076a.js.map": "/selmap/static/js/main.2a5c076a.js.map"
+    "main.6a028d48.js.map": "/selmap/static/js/main.6a028d48.js.map"
   },
   "entrypoints": [
     "static/css/main.a3686a09.css",
-    "static/js/main.2a5c076a.js"
+    "static/js/main.6a028d48.js"
   ]
 }
