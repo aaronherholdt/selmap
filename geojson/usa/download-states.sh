@@ -11,5 +11,5 @@ states=(
 )
 
 for state in "${states[@]}"; do
-  curl -o "${state}.json" "https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states/${state}.json"
+  curl -L -o "${state}.json" "https://eric.clst.org/assets/wiki/uploads/Stuff/gz_2010_us_040_00_500k.json"
 done 
