@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/selmap/static/css/main.a3686a09.css",
-    "main.js": "/selmap/static/js/main.4d14f785.js",
+    "main.css": "/selmap/static/css/main.6ac62442.css",
+    "main.js": "/selmap/static/js/main.ecbeb072.js",
     "index.html": "/selmap/index.html",
-    "main.a3686a09.css.map": "/selmap/static/css/main.a3686a09.css.map",
-    "main.4d14f785.js.map": "/selmap/static/js/main.4d14f785.js.map"
+    "main.6ac62442.css.map": "/selmap/static/css/main.6ac62442.css.map",
+    "main.ecbeb072.js.map": "/selmap/static/js/main.ecbeb072.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3686a09.css",
-    "static/js/main.4d14f785.js"
+    "static/css/main.6ac62442.css",
+    "static/js/main.ecbeb072.js"
   ]
 }
